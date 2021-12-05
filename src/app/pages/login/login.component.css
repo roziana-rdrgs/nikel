@@ -1,0 +1,29 @@
+
+.background{
+  background: linear-gradient(125deg,  #4A78D1 35%, #fff 60%);
+  padding-left: 5em;
+  margin: 0;
+}
+
+mat-form-field{
+  width: 100%;
+}
+
+button{
+  width: 75%;
+  outline: none;
+  border: 0;
+}
+
+
+button:focus{
+  border: 0;
+  outline: none;
+}
+
+.coins {
+  position: absolute;
+  bottom: 100px;
+}
+
+
